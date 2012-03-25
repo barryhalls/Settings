@@ -1547,6 +1547,8 @@
     <string name="volume_media_description">Music, video, games, &amp; other media</string>
     <!-- Volume description for ringtone and notification volume -->
     <string name="volume_ring_description">Ringtone &amp; notifications</string>
+    <!-- Volume description for ringtone volume -->
+    <string name="volume_ring_only_description">Ringtones</string>
     <!-- Volume description for notification volume -->
     <string name="volume_notification_description">Notifications</string>
     <!-- Volume description for alarm volume -->
@@ -3783,4 +3785,6 @@ found in the list of installed apps.</string>
     <string name="quick_links_title">Quick Links</string>
     <string name="slim_settings_title">ASS</string>
 	<string name="mod_version">Mod version</string>
+	<string name="link_volume_ringtones">Link volumes</string>
+    <string name="link_volume_mutes">Link mute states</string>    
 </resources>
